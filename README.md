@@ -10,7 +10,7 @@ This project was born from the idea of taking a complex and highly relevant topi
 It is not a scientific publication or a forecasting model.
 It is a skills building project, designed to show how I work with data and how I interpret results through an ESG lens.
 
-I chose climate data because it sits naturally at the intersection between my career experience and my learning journey. All analysis is written in Python using publicly available datasets from Our World in Data, the Global Carbon Project, and the United Nations.
+I chose climate data because it is at the intersection between my career experience and my learning journey. All analysis is written in Python using publicly available datasets from Our World in Data, the Global Carbon Project, and the United Nations.
 
 AI played a supportive role: I used it for brainstorming, checking formulas, debugging, and refining English text (not my native language). The ideas, methodology, analysis design, and conclusions are completely my own.
 
